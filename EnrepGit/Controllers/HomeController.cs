@@ -22,7 +22,7 @@ namespace EnrepGit.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "This is a custom message.";
 
             return View();
         }
