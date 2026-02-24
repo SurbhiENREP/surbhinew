@@ -16,7 +16,7 @@ namespace EnrepGit.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message1 ="page.";
             return View();
         }
 
